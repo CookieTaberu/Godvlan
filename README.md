@@ -1,2 +1,0 @@
-# Godvlan
-Godvlan app
